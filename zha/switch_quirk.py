@@ -102,7 +102,7 @@ class OnOffWithIndicatorCluster(CustomCluster, OnOff):
         )
 
 CONFIGS = [
-    "avotanj3;TS0013-AVB;BB4u;LB5;SC0u;RC2;SC3u;RC4;SA1u;RD2;",
+    "avotanj3;TS0013-AVB;BB4u;LB5;SA1u;RC2;SC3u;RC4;SC0u;RD2;",
 ]
 
 for config in CONFIGS:
