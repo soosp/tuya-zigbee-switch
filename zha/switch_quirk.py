@@ -110,6 +110,7 @@ CONFIGS = [
     "tqlv4ug4;TS0001-custom;BD2u;LC0;SB4u;RC2;",
     "zmy4lslw;TS0002-custom;BD2u;LC2;SB5u;RC4;SB4u;RC3;",
     "4rbqgcuv;TS0001-AVB;BC2u;LD2i;SD3u;RC0;",
+    "gzggw2ia;TS0001-AVB-DC;BC2u;LD2i;SD3u;RC0;",
     "mtnpt6ws;TS0002-AVB;BC2u;LD2i;SD3u;RC0;SD7u;RD4;",
     "hbic3ka3;TS0003-AVB;BC2u;LD2i;SD3u;RC0;SD7u;RD4;SB6u;RC1;",
     "5ajpkyq6;TS0004-AVB;BC2u;LD2i;SD3u;RC0;SD7u;RD4;SB6u;RC1;SA0u;RC4;",
