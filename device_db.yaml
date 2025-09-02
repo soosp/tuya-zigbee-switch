@@ -1,5 +1,5 @@
 TS0013_AVATTO:
-  config_str: avotanj3;TS0013-AVB;BB4u;LB5;SC0u;RC2;SC3u;RC4;SA1u;RD2;
+  config_str: avotanj3;TS0013-AVB;BB4u;LB5;SA1u;RC2;SC3u;RC4;SC0u;RD2;
   device_type: end_device
   tuya_manufacturer_id: 4417
   tuya_image_type: 54179
