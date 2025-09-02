@@ -124,11 +124,10 @@ TS0001_AVATTO_DC:
   stock_converter_model: TS0001_switch_module
   tuya_manufacturer_name: _TZ3000_gzggw2ia
   zb_module: ZTU
-  override_z2m_device: ZWSM16-1-Zigbee
   human_name: AVATTO ZWSM16-1-Zigbee (DC)
   status: Supported
-  github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/9
-  store: https://www.aliexpress.com/item/1005007247647375.html
+  github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/?
+  store: https://www.aliexpress.com/item/1005007342942592.html
 TS0002_AVATTO:
   config_str: mtnpt6ws;TS0002-AVB;BC2u;LD2i;SD3u;RC0;SD7u;RD4;
   device_type: router
