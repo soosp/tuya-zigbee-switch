@@ -1,3 +1,17 @@
+TS0013_AVATTO:
+  config_str: avotanj3;TS0013-AVB;BB4u;LB5;SC0u;RC2;SC3u;RC4;SA1u;RD2;
+  device_type: end_device
+  tuya_manufacturer_id: 4417
+  tuya_image_type: 54179
+  firmware_image_type: 43552
+  stock_converter_model: TS0013
+  tuya_manufacturer_name: _TZ3000_avotanj3
+  zb_module: ZTU
+  human_name: AVATTO LZWSM16-3 (blue socket)
+  override_z2m_device: LZWSM16-3
+  status: Supported
+  github_issue: https://github.com/romasku/tuya-zigbee-switch/issues/135
+  store: https://www.aliexpress.com/item/1005007247647375.html
 TS0012:
   config_str: jl7qyupf;TS0012-custom;BA0f;LD7;SC2f;SC3f;RC0;RB4;
   device_type: end_device
